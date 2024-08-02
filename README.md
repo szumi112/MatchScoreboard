@@ -11,27 +11,21 @@ To get started with the project, you'll need to have [Node.js](https://nodejs.or
 1. Clone the repository:
 
    ```
-
    git clone git@github.com:szumi112/MatchScoreboard.git
 
    cd live-football-scoreboard
-
    ```
 
 2. Install dependencies:
 
    ```
-
    npm install
-
    ```
 
 3. Start the development server:
 
    ```
-
    npm start
-
    ```
 
 4. Open your browser and navigate to `http://localhost:3000` to view the application.
@@ -63,9 +57,7 @@ To get started with the project, you'll need to have [Node.js](https://nodejs.or
 This project is set up with basic testing configurations using [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/). To run tests, use:
 
 ```
-
 npm test
-
 ```
 
 ## Future Improvements
