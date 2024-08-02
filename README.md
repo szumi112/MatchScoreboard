@@ -12,7 +12,9 @@ To get started with the project, you'll need to have [Node.js](https://nodejs.or
 
    ```
    git clone git@github.com:szumi112/MatchScoreboard.git
+   ```
 
+   ```
    cd live-football-scoreboard
    ```
 
